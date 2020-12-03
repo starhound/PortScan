@@ -1,5 +1,5 @@
 # PortScan
-Simply python port scanner
+Simple Python3 port scanner
 
 Simply scans for open ports on a given IP address. 
 
