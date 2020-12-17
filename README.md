@@ -12,3 +12,5 @@ Or use the CLI version, which can be executed like so: *python3 PortScan-CLI.py 
 TODO: GUI, hostname scanning support.
 
 ![Image of Application](https://i.imgur.com/IIeTu1B.png)
+
+![Image of CLI Application](https://i.imgur.com/MZ53Gga.png)
