@@ -7,6 +7,8 @@ Accepts port ranges to search for.
 
 Build it into an exe using *Pyinstaller --onefile PortScan.py* or execute via command line *python3 PortScan.py*.
 
+Or use the CLI version, which can be executed like so: *python3 PortScan-CLI.py IP_ADDRESS START_PORT END_PORT*
+
 TODO: GUI, hostname scanning support.
 
 ![Image of Application](https://i.imgur.com/IIeTu1B.png)
